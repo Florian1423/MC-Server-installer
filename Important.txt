@@ -1,0 +1,2 @@
+You Need to have Java installed. The link is down below.
+https://javadl.oracle.com/webapps/download/AutoDL?BundleId=252044_8a1589aa0fe24566b4337beee47c2d29
